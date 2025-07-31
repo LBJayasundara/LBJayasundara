@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://jmlahirubuddhika.blogspot.com/](https://jmlahirubuddhika.blogspot.com/)
 
-- 💬 Ask me about **Java / Flutter / C programming / PHP / SQL / HTML / CSS /Bootstrap**
+- 💬 Ask me about   **Java / Flutter / C programming / PHP / SQL / HTML / CSS /Bootstrap**
 
 - 📫 How to reach me **2001lahiru123@gmail.com**
 
