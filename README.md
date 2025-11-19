@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Lahiur Buddhika</h1>
+<h1 align="center">Hi 👋, I'm Lahiru Buddhika</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=1000&lines=Student+Of+South+Eastern+University+Of+Srilanka;Undergraduate+software+engineer;Always+learning+new+things" alt="Typing SVG" /></a>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
